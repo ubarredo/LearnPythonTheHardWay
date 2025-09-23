@@ -21,3 +21,10 @@ print("How about some more.")
 print("It is greater?", 5 > -2)
 print("It is greater or equal?", 5 >= -2)
 print("It is less or equal?", 5 <= -2)
+
+# Notice the math seems “wrong”? There are no fractions, only whole numbers. Find out
+#why by researching what a “ﬂ oating point” number is.
+
+
+
+
