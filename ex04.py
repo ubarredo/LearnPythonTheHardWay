@@ -14,7 +14,7 @@ print("We can transport", carpool_capacity, "people today.")
 print("We have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car, "in each car.")
 
-# What do you mean by “read the ﬁ le backward”?
+# What do you mean by “read the ﬁle backward”?
 #Very simple. Imagine you have a ﬁ le with 16 lines of code in it. Start at line 16, and compare it to
 # my ﬁle at line 16. Then do it again for 15, and so on, until you’ve read the whole ﬁ le backward.
 
