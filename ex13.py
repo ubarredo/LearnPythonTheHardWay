@@ -8,7 +8,7 @@ print("Your first variable is:", first)
 print("Your second variable is:", second)
 print("Your third variable is:", third)
 
-# in below script, I dont understand how come ex1.py came in place of script. why not script
+# in below script, I dont understand how come ex1.py came in place of script. why not scripts
 
 # jas@jasmeen-E490:~/Downloads$ python3 ex1.py first second third
 # The script is called: ex1.py
@@ -18,11 +18,10 @@ print("Your third variable is:", third)
 
 #################################################################
 
-# in below script i tried giving argv as input from user but i do not get the expected output
+# in below script i tried giving argv as input from user but why the output is not number in line 43, 44, 45
 
 # from sys import argv
 
-# # read the WYSS section for how to run this
 
 # age = input("How old are you? ")
 # height = input("How tall are you? ")
